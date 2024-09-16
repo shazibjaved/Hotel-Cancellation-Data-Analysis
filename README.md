@@ -7,6 +7,8 @@ City and resort hotels have been facing increased cancellation rates, which have
 
 * Fewer revenues: Cancellations lead to lost potential income.
 * Less efficient room utilization: Vacant rooms represent missed opportunities.
+
+  
 The primary goal is to reduce the cancellation rates for both types of hotels. This will improve operational efficiency and increase revenue generation. The project provides business advice and insights to address these issues effectively.
 # Project Approach
 # 1.Data Collection and Analysis:  
