@@ -30,6 +30,17 @@ Python libraries used include:
 * Data Insights: Detailed analysis of cancellation patterns and contributing factors.
 * Visualizations: Interactive charts and graphs to illustrate key findings.
 * Business Recommendations: Practical advice to help hotels reduce cancellation rates and improve profitability.
+# Dashboard Screenshots  
+![image](https://github.com/user-attachments/assets/7d68a542-1aa3-4a82-98aa-540adc2e5cd7)  
+![image](https://github.com/user-attachments/assets/274ec1c0-157b-4c99-af4b-c32ae48f4279)  
+![image](https://github.com/user-attachments/assets/71a2358e-0718-4300-b30e-78d93f19f501)
+
+
+
+
+
+
+
   
 
 
